@@ -1,0 +1,3 @@
+#! /bin/bash
+
+vncserver -depth 24 -geometry 1536x864 -httpport 5900 -alwaysshared :1
